@@ -1,0 +1,22 @@
+{
+    "portraits" : [
+        {
+            "name" : "White-like",
+            "display_name" : "White-ish's",
+            "main_texture" : "guis/textures/pdth_hud/portraits/white-ish",
+            "portraits_info" : {
+                "w" : 192,
+                "h" : 390,
+				"gap" : 2,
+                "included_characters" : [
+                    "max",
+					"chico",
+					"myh",
+					"ecp_male",
+					"ecp_female",
+					"joy"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "portraits" : [
+        {
+            "name" : "pdth",
+            "display_name" : "PDTH",
+            "main_texture" : "guis/textures/pdth_hud/portraits/pdth",
+            "portraits_info" : {
+                "w" : 64,
+                "h" : 130,
+                "gap" : 1,
+                "included_characters" : [
+                    "russian",
+                    "german",
+                    "american",
+                    "spanish",
+					"old_hoxton"
+                ]
+            }
+        }
+    ]
+}

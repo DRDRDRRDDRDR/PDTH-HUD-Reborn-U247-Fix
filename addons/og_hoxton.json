@@ -1,0 +1,40 @@
+{
+    "portraits" : [
+        {
+            "name" : "pdth_hoxton_reborn",
+            "display_name" : "PDTH Hoxton",
+            "main_texture" : "guis/textures/pdth_hud/portraits/pdth",
+            "portraits" : [
+                {
+                    "character_id" : "old_hoxton",
+                    "texture_rects" : {
+                        "health" : [
+                            130, 
+                            0, 
+                            64, 
+                            130
+                        ],
+                        "armor" : [
+                            130, 
+                            131, 
+                            64, 
+                            130
+                        ],
+                        "bg" : [
+                            130, 
+                            262, 
+                            64, 
+                            130
+                        ],
+                        "tm" : [
+                            130,
+                            393,
+                            64,
+                            64
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

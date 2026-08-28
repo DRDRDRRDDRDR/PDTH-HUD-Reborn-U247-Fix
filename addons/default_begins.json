@@ -1,0 +1,38 @@
+{
+    "portraits" : [
+        {
+            "name" : "default_begins",
+            "display_name" : "Default (Begins)",
+            "main_texture" : "guis/textures/pdth_hud/portraits/default_begins",
+            "portraits_info" : {
+                "w" : 192,
+                "h" : 390,
+                "gap" : 1,
+                "included_characters" : [
+                    "russian",
+                    "german",
+                    "american",
+                    "spanish",
+                    "female_1",
+                    "old_hoxton",
+                    "jowi",
+                    "dragan",
+                    "jacket",
+                    "bonnie",
+                    "sokol",
+                    "dragon",
+                    "bodhi",
+                    "jimmy",
+                    "sydney",
+                    "wild",
+					"chico",
+					"max",
+					"myh",
+					"ecp_male",
+					"ecp_female",
+					"joy"
+                ]
+            }
+        }
+    ]
+}

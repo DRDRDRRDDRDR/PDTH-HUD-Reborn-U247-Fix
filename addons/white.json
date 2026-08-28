@@ -1,0 +1,32 @@
+{
+    "portraits" : [
+        {
+            "name" : "white",
+            "display_name" : "White's",
+            "main_texture" : "guis/textures/pdth_hud/portraits/whites",
+            "portraits_info" : {
+                "w" : 192,
+                "h" : 390,
+                "gap" : 1,
+                "included_characters" : [
+                    "russian",
+                    "german",
+                    "american",
+                    "spanish",
+                    "female_1",
+                    "old_hoxton",
+                    "jowi",
+                    "dragan",
+                    "jacket",
+                    "bonnie",
+                    "sokol",
+                    "dragon",
+                    "bodhi",
+                    "jimmy",
+                    "sydney",
+                    "wild"
+                ]
+            }
+        }
+    ]
+}

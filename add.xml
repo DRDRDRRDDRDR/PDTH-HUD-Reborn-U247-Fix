@@ -1,0 +1,42 @@
+<table directory="assets">
+	<texture path="units/gui/c4_indicator_df" force="true"/>
+	<texture path="units/gui/camera_indicator_df" force="true"/>
+	<texture path="units/gui/crowbar_indicator_df" force="true"/>
+	<texture path="units/gui/cutter_indicator_df" force="true"/>
+	<texture path="units/gui/drill_indicator_df" force="true"/>
+	<texture path="units/gui/ecm_indicator_df" force="true"/>
+	<texture path="units/gui/file_indicator_df" force="true"/>
+	<texture path="units/gui/glasscutter_indicator_df" force="true"/>
+	<texture path="units/gui/gps_indicator_df" force="true"/>
+	<texture path="units/gui/gui_drive_driver_df" force="true"/>
+	<texture path="units/gui/gui_drive_passenger_df" force="true"/>
+	<texture path="units/gui/gui_drive_repair_df" force="true"/>
+	<texture path="units/gui/gui_drive_trunk_df" force="true"/>
+	<texture path="units/gui/gui_generic_search_df" force="true"/>
+	<texture path="units/gui/lockpick_ghost_indicator_df" force="true"/>
+	<texture path="units/gui/lockpick_indicator_df" force="true"/>
+	<texture path="units/gui/plank_indicator_df" force="true"/>
+	<texture path="units/gui/sawblade_indicator_df" force="true"/>
+	<texture path="units/gui/scissors_indicator_df" force="true"/>
+	<texture path="units/gui/thermite_indicator_df" force="true"/>
+	<texture path="guis/textures/pdth_hud/ammo_coloured"/>
+	<texture path="guis/textures/pdth_hud/ammo_white"/>
+	<texture path="guis/textures/pdth_hud/hud_icons"/>
+	<texture path="guis/textures/pdth_hud/hud_swansong"/>
+	<texture path="guis/textures/pdth_hud/hud_fearless"/>
+	<texture path="guis/textures/pdth_hud/hud_cooldown_timer"/>
+	<texture path="guis/textures/pdth_hud/hud_dot"/>
+	<texture path="guis/textures/pdth_hud/icons_black"/>
+	<texture path="guis/textures/pdth_hud/icon_carrybag"/>
+	<texture path="guis/textures/pdth_hud/icons_coloured"/>
+	<texture path="guis/textures/pdth_hud/pd2_waypoints"/>
+	<texture path="guis/textures/pdth_hud/swansong_effect"/>
+	<texture path="guis/textures/pdth_hud/portraits/default"/>
+	<texture path="guis/textures/pdth_hud/portraits/default_begins"/>
+	<texture path="guis/textures/pdth_hud/portraits/default_unmasked"/>
+	<texture path="guis/textures/pdth_hud/portraits/foster"/>
+	<texture path="guis/textures/pdth_hud/portraits/hoxton_prison"/>
+	<texture path="guis/textures/pdth_hud/portraits/pdth"/>
+	<texture path="guis/textures/pdth_hud/portraits/whites"/>
+	<texture path="guis/textures/pdth_hud/portraits/white-ish"/>
+</table>
